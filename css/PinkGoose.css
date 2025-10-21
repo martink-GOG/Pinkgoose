@@ -229,10 +229,8 @@ main {
   font-size: 30px;
 }
 
-.Dark-text {
+.dark-text {
   color: #37424D;
-
-
 }
 
 .flex-container-works-with-image {
@@ -275,38 +273,38 @@ main {
   font-family: "Montserrat", sans-serif;
 }
 
-.Ethereum {
+.ethereum {
   margin-right: 100px;
   color: white;
   margin-left: 60px;
 }
 
-.Polygon {
+.polygon {
   margin-right: 80px;
   color: white;
   margin-left: 40px;
 }
 
-.Gnosis-Safe {
+.gnosis-safe {
   margin-left: 40px;
   color: white;
   margin-right: 94px;
   flex-wrap: nowrap;
 }
 
-.Snapshot {
+.snapshot {
   margin-right: 90px;
   color: white;
   margin-left: 20px;
 }
 
-.ENS {
+.ens {
   margin-right: 50px;
   color: white;
   margin-left: 50px;
 }
 
-.OpenSea {
+.opensea {
   margin-right: 60px;
   color: white;
   margin-left: 96px;
@@ -561,12 +559,7 @@ input[type=button] {
 
 }
 
-.decrypt {
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-.flex-container-the-Upodcast {
+.flex-container-the-upodcast {
   width: 250px;
   height: 260px;
   border-radius: 14px;
@@ -613,7 +606,7 @@ input[type=button] {
   margin-top: 70px;
 }
 
-.flex-container-the-Upodcast>div {
+.flex-container-the-upodcast>div {
   margin-top: 14px;
 }
 
